@@ -1,0 +1,16 @@
+uid,scheme,totalLogin,totalSuccess,totalFail,total,succTime,failTime
+ipt101,testpasstiles,32,16,16,32,2,7
+ipt104,testpasstiles,12,12,0,12,3,0
+ipt105,testpasstiles,22,15,7,22,5,1
+ipt106,testpasstiles,21,15,6,21,3,0
+ipt109,testpasstiles,15,15,0,15,4,0
+ipt110,testpasstiles,19,15,4,19,1,1
+ipt113,testpasstiles,29,17,12,29,1,2
+ipt119,testpasstiles,18,16,2,18,7,0
+ipt131,testpasstiles,15,12,3,15,8,3
+ipt133,testpasstiles,16,15,1,16,3,0
+ipt134,testpasstiles,20,15,5,20,5,0
+ipt136,testpasstiles,18,15,3,18,5,1
+ipt137,testpasstiles,20,16,4,20,6,2
+ipt143,testpasstiles,18,15,3,18,2,1
+ipt145,testpasstiles,16,15,1,16,6,1
